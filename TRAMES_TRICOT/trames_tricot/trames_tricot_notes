@@ -1,0 +1,30 @@
+Processing tramage d'images
+"sketchbook/trames_tricot.pde"
+
+
+image d'origine: 67x97 pxl
+image tramé: 600x900 pxl
+
+chaque symboles svg : 95 pxl
+
+
+complémentaire:
+P_4_3_1_02 analyse svg greyscale
+
+Analyse le pourcentage de gris de chaque symbôle et remplace le nom par un no:
+ex:
+
+Patterns are not supported.
+0  082.svg  average greyscale -> 82  67.72828 %
+1  166.svg  average greyscale -> 166  35.079636 %
+2  224.svg  average greyscale -> 224  12.263483 %
+3  151_152.svg  average greyscale -> 151  40.611427 %
+4  198.svg  average greyscale -> 198  22.288036 %
+5  117.svg  average greyscale -> 117  54.13844 %
+6  148.svg  average greyscale -> 148  41.881077 %
+7  164.svg  average greyscale -> 164  35.805523 %
+8  076.svg  average greyscale -> 76  70.304344 %
+9  081_096.svg  average greyscale -> 81  68.19585 %
+10  186.svg  average greyscale -> 186  26.976849 %
+11  056.svg  average greyscale -> 56  77.95401 %
+12  157.svg  average greyscale -> 157  38.54832 %
